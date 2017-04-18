@@ -1,2 +1,2 @@
 echo "hello world"
-ping 192.168.137.146
+ssh root@192.168.137.146
