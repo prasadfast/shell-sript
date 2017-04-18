@@ -1,2 +1,2 @@
-ssh -p redhat ssh root@192.168.137.147 
+sshpass -p "redhat" ssh root@192.168.137.147 
 echo "hello world"
