@@ -1,2 +1,2 @@
-ping 192.168.137.146 
+ping 192.168.137.148
 echo "hello world"
